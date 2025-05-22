@@ -53,6 +53,7 @@ Mkfile.old
 dkms.conf
 
 ### CMake template
+CMakeLists.txt
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
